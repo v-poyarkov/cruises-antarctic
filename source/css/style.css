@@ -114,7 +114,7 @@ input[type="file"].visually-hidden {
 
 .page-header {
   background-color: #004179;
-  background-image: url("../img/antarctic_desktop.jpg");
+  background-image: url("../img/antarctic-desktop.jpg");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -124,7 +124,7 @@ input[type="file"].visually-hidden {
 (min-resolution: 144dpi),
 (min-resolution: 1.5dppx) {
   .page-header {
-    background-image: url("../img/antarctic_desktop@2x.jpg");
+    background-image: url("../img/antarctic-desktop@2x.jpg");
   }
 }
 
@@ -189,7 +189,7 @@ input[type="file"].visually-hidden {
 
 @media (max-width: 1023px) {
   .page-header {
-    background-image: url("../img/antarctic_tablet.jpg");
+    background-image: url("../img/antarctic-tablet.jpg");
   }
 }
 
@@ -197,7 +197,7 @@ input[type="file"].visually-hidden {
 (max-width: 1023px) and (min-resolution: 144dpi),
 (max-width: 1023px) and (min-resolution: 1.5dppx) {
   .page-header {
-    background-image: url("../img/antarctic_tablet@2x.jpg");
+    background-image: url("../img/antarctic-tablet@2x.jpg");
   }
 }
 
@@ -235,7 +235,7 @@ input[type="file"].visually-hidden {
 @media (max-width: 767px) {
   .page-header {
     position: relative;
-    background-image: url("../img/antarctic_mobile.jpg");
+    background-image: url("../img/antarctic-mobile.jpg");
     background-position: center;
   }
 }
@@ -244,7 +244,7 @@ input[type="file"].visually-hidden {
 (max-width: 767px) and (min-resolution: 144dpi),
 (max-width: 767px) and (min-resolution: 1.5dppx) {
   .page-header {
-    background-image: url("../img/antarctic_mobile@2x.jpg");
+    background-image: url("../img/antarctic-mobile@2x.jpg");
   }
 }
 
@@ -510,7 +510,7 @@ input[type="file"].visually-hidden {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   right: 7.54%;
-  background-image: url("../img/penguins_desktop.jpg");
+  background-image: url("../img/penguins-desktop.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 560px 301px;
@@ -520,7 +520,7 @@ input[type="file"].visually-hidden {
 (min-resolution: 144dpi),
 (min-resolution: 1.5dppx) {
   .about-us__container::after {
-    background-image: url("../img/penguins_desktop@2x.jpg");
+    background-image: url("../img/penguins-desktop@2x.jpg");
   }
 }
 
@@ -562,7 +562,7 @@ input[type="file"].visually-hidden {
     width: 42.2%;
     height: 264px;
     right: 45px;
-    background-image: url("../img/penguins_tablet.jpg");
+    background-image: url("../img/penguins-tablet.jpg");
     background-size: 324px 264px;
   }
 }
@@ -571,7 +571,7 @@ input[type="file"].visually-hidden {
 (max-width: 1023px) and (min-resolution: 144dpi),
 (max-width: 1023px) and (min-resolution: 1.5dppx) {
   .about-us__container::after {
-    background-image: url("../img/penguins_tablet@2x.jpg");
+    background-image: url("../img/penguins-tablet@2x.jpg");
   }
 }
 
@@ -611,7 +611,7 @@ input[type="file"].visually-hidden {
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-image: url("../img/penguins_mobile.jpg");
+    background-image: url("../img/penguins-mobile.jpg");
     background-position: center bottom;
     background-size: 290px 186px;
   }
@@ -621,7 +621,7 @@ input[type="file"].visually-hidden {
 (max-width: 767px) and (min-resolution: 144dpi),
 (max-width: 767px) and (min-resolution: 1.5dppx) {
   .about-us__container::after {
-    background-image: url("../img/penguins_mobile@2x.jpg");
+    background-image: url("../img/penguins-mobile@2x.jpg");
   }
 }
 
@@ -1087,7 +1087,7 @@ input[type="file"].visually-hidden {
 
 .early-booking {
   background-color: #004179;
-  background-image: url("../img/antarctic-booking_desktop.jpg");
+  background-image: url("../img/antarctic-booking-desktop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -1097,7 +1097,7 @@ input[type="file"].visually-hidden {
 (min-resolution: 144dpi),
 (min-resolution: 1.5dppx) {
   .early-booking {
-    background-image: url("../img/antarctic-booking_desktop@2x.jpg");
+    background-image: url("../img/antarctic-booking-desktop@2x.jpg");
   }
 }
 
@@ -1271,7 +1271,7 @@ input[type="file"].visually-hidden {
 
 @media (max-width: 1023px) {
   .early-booking {
-    background-image: url("../img/antarctic-booking_tablet.jpg");
+    background-image: url("../img/antarctic-booking-tablet.jpg");
   }
 }
 
@@ -1279,7 +1279,7 @@ input[type="file"].visually-hidden {
 (max-width: 1023px) and (min-resolution: 144dpi),
 (max-width: 1023px) and (min-resolution: 1.5dppx) {
   .early-booking {
-    background-image: url("../img/antarctic-booking_tablet@2x.jpg");
+    background-image: url("../img/antarctic-booking-tablet@2x.jpg");
   }
 }
 
@@ -1324,7 +1324,7 @@ input[type="file"].visually-hidden {
 
 @media (max-width: 767px) {
   .early-booking {
-    background-image: url("../img/antarctic-booking_mobile.jpg");
+    background-image: url("../img/antarctic-booking-mobile.jpg");
   }
 }
 
@@ -1332,7 +1332,7 @@ input[type="file"].visually-hidden {
 (max-width: 767px) and (min-resolution: 144dpi),
 (max-width: 767px) and (min-resolution: 1.5dppx) {
   .early-booking {
-    background-image: url("../img/antarctic-booking_mobile@2x.jpg");
+    background-image: url("../img/antarctic-booking-mobile@2x.jpg");
   }
 }
 
@@ -1437,7 +1437,7 @@ input[type="file"].visually-hidden {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   left: 7.54%;
-  background-image: url("../img/map_desktop.jpg");
+  background-image: url("../img/map-desktop.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 560px 306px;
@@ -1448,7 +1448,7 @@ input[type="file"].visually-hidden {
 (min-resolution: 144dpi),
 (min-resolution: 1.5dppx) {
   .contacts__container::before {
-    background-image: url("../img/map_desktop@2x.jpg");
+    background-image: url("../img/map-desktop@2x.jpg");
   }
 }
 
@@ -1527,7 +1527,7 @@ input[type="file"].visually-hidden {
   .contacts__container::before {
     width: 42.2%;
     left: 45px;
-    background-image: url("../img/map_tablet.jpg");
+    background-image: url("../img/map-tablet.jpg");
     background-size: 324px 335px;
   }
 }
@@ -1536,7 +1536,7 @@ input[type="file"].visually-hidden {
 (max-width: 1023px) and (min-resolution: 144dpi),
 (max-width: 1023px) and (min-resolution: 1.5dppx) {
   .contacts__container::before {
-    background-image: url("../img/map_tablet@2x.jpg");
+    background-image: url("../img/map-tablet@2x.jpg");
   }
 }
 
@@ -1577,7 +1577,7 @@ input[type="file"].visually-hidden {
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background-image: url("../img/map_mobile.jpg");
+    background-image: url("../img/map-mobile.jpg");
     background-size: 290px 316px;
     background-position: center bottom;
   }
@@ -1587,7 +1587,7 @@ input[type="file"].visually-hidden {
 (max-width: 767px) and (min-resolution: 144dpi),
 (max-width: 767px) and (min-resolution: 1.5dppx) {
   .contacts__container::before {
-    background-image: url("../img/map_mobile@2x.jpg");
+    background-image: url("../img/map-mobile@2x.jpg");
   }
 }
 
